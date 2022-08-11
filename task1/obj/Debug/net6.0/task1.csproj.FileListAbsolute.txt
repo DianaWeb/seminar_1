@@ -1,0 +1,15 @@
+E:\Разработчик ГБ\C#\Seminar 1\task1\obj\Debug\net6.0\task1.csproj.AssemblyReference.cache
+E:\Разработчик ГБ\C#\Seminar 1\task1\obj\Debug\net6.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Разработчик ГБ\C#\Seminar 1\task1\obj\Debug\net6.0\task1.AssemblyInfoInputs.cache
+E:\Разработчик ГБ\C#\Seminar 1\task1\obj\Debug\net6.0\task1.AssemblyInfo.cs
+E:\Разработчик ГБ\C#\Seminar 1\task1\obj\Debug\net6.0\task1.csproj.CoreCompileInputs.cache
+E:\Разработчик ГБ\C#\Seminar 1\task1\bin\Debug\net6.0\task1.exe
+E:\Разработчик ГБ\C#\Seminar 1\task1\bin\Debug\net6.0\task1.deps.json
+E:\Разработчик ГБ\C#\Seminar 1\task1\bin\Debug\net6.0\task1.runtimeconfig.json
+E:\Разработчик ГБ\C#\Seminar 1\task1\bin\Debug\net6.0\task1.dll
+E:\Разработчик ГБ\C#\Seminar 1\task1\bin\Debug\net6.0\task1.pdb
+E:\Разработчик ГБ\C#\Seminar 1\task1\obj\Debug\net6.0\task1.dll
+E:\Разработчик ГБ\C#\Seminar 1\task1\obj\Debug\net6.0\refint\task1.dll
+E:\Разработчик ГБ\C#\Seminar 1\task1\obj\Debug\net6.0\task1.pdb
+E:\Разработчик ГБ\C#\Seminar 1\task1\obj\Debug\net6.0\task1.genruntimeconfig.cache
+E:\Разработчик ГБ\C#\Seminar 1\task1\obj\Debug\net6.0\ref\task1.dll
